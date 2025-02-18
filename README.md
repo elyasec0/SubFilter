@@ -9,11 +9,6 @@
 
 ## Installation
 - Ensure you have Python 3.7+ installed.
-- Install required libraries using the following command:
-
-  ```bash
-  pip install -r requirements.txt
-  ```
 
 ## Usage
 To run the tool, use the following command:
